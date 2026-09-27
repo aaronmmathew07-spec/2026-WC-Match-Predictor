@@ -1,0 +1,41 @@
+match_id,team,opponent,xg,possession,prog_carries,defensive_actions
+3857276,Canada,Morocco,1.096,56.6,62,160
+3857276,Morocco,Canada,0.426,43.4,28,183
+3857271,England,Iran,1.987,71.8,61,124
+3857271,Iran,England,1.456,28.2,26,171
+3857296,Croatia,Belgium,0.695,50.0,72,186
+3857296,Belgium,Croatia,2.382,50.0,57,141
+3857274,Netherlands,Ecuador,0.104,52.1,34,152
+3857274,Ecuador,Netherlands,1.651,47.9,45,199
+3857255,Japan,Spain,1.158,24.0,23,251
+3857255,Spain,Japan,0.858,76.0,102,109
+3857272,England,United States,0.461,53.6,48,125
+3857272,United States,England,0.514,46.4,48,172
+3857278,Iran,United States,0.921,48.4,46,172
+3857278,United States,Iran,1.17,51.6,79,165
+3857277,Morocco,Croatia,0.363,40.3,32,195
+3857277,Croatia,Morocco,0.85,59.7,46,136
+3857273,Wales,Iran,0.616,59.9,45,110
+3857273,Iran,Wales,1.454,40.1,38,185
+3857275,Tunisia,France,0.298,38.2,41,131
+3857275,France,Tunisia,0.477,61.8,66,122
+3857261,Wales,England,0.208,38.4,16,151
+3857261,England,Wales,2.915,61.6,57,100
+3857290,Switzerland,Cameroon,1.427,50.8,73,161
+3857290,Cameroon,Switzerland,0.613,49.2,49,173
+3857298,Portugal,Ghana,2.097,58.1,75,133
+3857298,Ghana,Portugal,0.78,41.9,36,167
+3857285,Senegal,Netherlands,0.691,49.0,38,137
+3857285,Netherlands,Senegal,1.124,51.0,55,127
+3857282,United States,Wales,0.602,56.8,77,160
+3857282,Wales,United States,1.395,43.2,26,154
+3857297,Poland,Saudi Arabia,1.734,37.8,30,130
+3857297,Saudi Arabia,Poland,1.972,62.2,80,145
+3857294,Netherlands,Qatar,1.714,61.3,58,148
+3857294,Qatar,Netherlands,0.144,38.7,52,157
+3857266,France,Denmark,1.934,49.7,56,135
+3857266,Denmark,France,0.889,50.3,52,142
+3857284,Germany,Japan,2.768,68.5,88,102
+3857284,Japan,Germany,1.249,31.5,27,199
+3857254,Denmark,Tunisia,1.567,58.3,47,128
+3857254,Tunisia,Denmark,1.06,41.7,26,155
